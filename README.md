@@ -5,3 +5,7 @@ This is an introduction to [Git/GitHub](https://github.com) and this is going to
 ```bash
 nano README.md
 ```
+
+This is an edit using vi.
+
+This is an edit using nano.
